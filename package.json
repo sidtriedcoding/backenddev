@@ -1,0 +1,15 @@
+{
+  "name": "backenddev",
+  "version": "1.0.0",
+  "description": "for backend code deployment ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Siddharth Chaubal",
+  "license": "ISC",
+  "dependencies": {
+    "env": "^0.0.2",
+    "express": "^5.1.0"
+  }
+}
